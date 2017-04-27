@@ -19,6 +19,6 @@
   "repositories": [
   ],
   "require": {
-    "ext-http": "2.x"
+    "ext-http": "3.x"
   }
 }
