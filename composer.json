@@ -1,5 +1,5 @@
 {
-  "name": "lostintime/pecl-http-stubs",
+  "name": "sazze/pecl-http-stubs",
   "description": "Stubs for pecl http library http://pecl.php.net/package/pecl_http",
   "minimum-stability": "dev",
   "authors": [
